@@ -1,0 +1,11 @@
+Update Airtable when a new subscription is added to Stripe.
+Add a new record to Airtable when a Typeform response is submitted.
+Update Airtable database when there is a sale in Stripe.
+Send an email using Gmail.
+A job that is triggered by a Gmail webhook.
+Post an image to Instagram
+A job that is triggered by a Instagram webhook.
+A job that is triggered by a WhatsApp webhook.
+Send a message to a WhatsApp number
+Add a new project in Todoist.
+A job that is triggered by a Todoist webhook.
